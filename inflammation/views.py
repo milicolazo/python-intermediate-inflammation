@@ -23,3 +23,10 @@ def visualize(data_dict):
     fig.tight_layout()
 
     plt.show()
+
+
+def display_patient_record(patient):
+    """Display data for a single patient."""
+    print(patient.name)
+    for obs in patient.observations:
+        print(obs.day, obs.value)
