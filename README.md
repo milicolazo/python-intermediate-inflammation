@@ -31,6 +31,9 @@ The following optional packages are required to run Inflam's unit tests:
 Clone this repo and then inside the local directory execute \
 `$ pip install -e .`
 
+## Contact Information
+
+If you have any questions or comments please contact lead developer Milagros Colazo through GitHub.
 ## MIT License
 
 MIT License
