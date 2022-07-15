@@ -28,8 +28,17 @@ The following optional packages are required to run Inflam's unit tests:
 
 ## Installation
 
-Clone this repo and then inside the local directory execute \
-`$ pip install -e .`
+Users may wish to install this software within a virtual environment.  
+To create a python virtual environment:
+`$ python -m venv <name-of-dirctory>`
+
+Then activate the virtual environment with:
+`$ source <path-to-directory>/bin/activate`
+
+Once the virtual environment is active you can clone this repository to your local machine, and install the package as follows, from inside the local directory: \
+`$ pip install .`
+
+
 
 ## Contact Information
 
